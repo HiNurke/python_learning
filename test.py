@@ -1,7 +1,7 @@
 print("Hello World")
 
 a = 10
-b = 20
+d = 20
 
 def greet(name):
     return f"Hello, {name}"
