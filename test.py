@@ -1,6 +1,6 @@
 print("Hello World")
 
-a = 10
+c = 10
 d = 20
 
 def greet(name):
